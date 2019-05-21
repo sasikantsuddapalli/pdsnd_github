@@ -1,5 +1,5 @@
 ### Date created
-05/21/2019
+05/21/2019 :rocket:
 
 ### Project Title
 Bikeshare-Python
@@ -14,4 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Credit: Udacity 
+Credit: Udacity :+1: 
+ :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  
