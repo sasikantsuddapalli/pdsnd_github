@@ -15,6 +15,9 @@ washington.csv
 
 ### Credits
 Credit: Udacity :+1:
- :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  
 
-[^1]: Version 0.0
+### As Douglas Adams said
+>I may not have gone where I intended to go,
+>but I think I have ended up where I needed to be.
+
+1: Version 0.0  :octocat:
