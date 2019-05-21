@@ -14,5 +14,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Credit: Udacity :+1: 
+Credit: Udacity :+1:
  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  :octocat:  
+
+[^1]: Version 0.0
